@@ -17,7 +17,7 @@
         <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/assets/fonts/style.css" />
 
         <!-- STYLES -->
-        <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/style.css" />
+        <!-- <link rel="stylesheet" href="<?php // echo get_stylesheet_directory_uri(); ?>/style.css" /> -->
 
         <!-- FONTS -->
         <link rel="preconnect" href="https://fonts.googleapis.com" />

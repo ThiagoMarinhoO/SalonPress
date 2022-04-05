@@ -39,6 +39,6 @@
         <script src="https://unpkg.com/scrollreveal"></script>
 
         <!-- MAINJS -->
-        <script src="<?php echo get_stylesheet_directory_uri(); ?>/main.js"></script>
+        <!-- <script src="<?php // echo get_stylesheet_directory_uri(); ?>/main.js"></script> -->
     </body>
 </html>
